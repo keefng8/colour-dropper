@@ -1,0 +1,13 @@
+{
+  "name": "Colour Dropper",
+  "description": "Read the colour of any pixel on screen - in any application, not just a browser - with a magnifier, hex/RGB/HSL, and a WCAG contrast check between your last two picks. Borderless and always on top, in Mavis's window style.",
+  "entry": "main.py",
+  "mode": "launch",
+  "keywords": [
+    "open colour dropper",
+    "pick a colour from my screen",
+    "what colour is that",
+    "eyedropper"
+  ],
+  "category": "Graphics"
+}
